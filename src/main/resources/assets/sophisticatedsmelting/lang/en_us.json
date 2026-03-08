@@ -1,0 +1,13 @@
+{
+  "itemGroup.sophisticatedsmelting": "Example Mod Tab",
+  "block.sophisticatedsmelting.example_block": "Example Block",
+  "item.sophisticatedsmelting.example_item": "Example Item",
+
+  "sophisticatedsmelting.configuration.title": "Sophisticated Smelting! Configs",
+  "sophisticatedsmelting.configuration.section.sophisticatedsmelting.common.toml": "Sophisticated Smelting! Configs",
+  "sophisticatedsmelting.configuration.section.sophisticatedsmelting.common.toml.title": "Sophisticated Smelting! Configs",
+  "sophisticatedsmelting.configuration.items": "Item List",
+  "sophisticatedsmelting.configuration.logDirtBlock": "Log Dirt Block",
+  "sophisticatedsmelting.configuration.magicNumberIntroduction": "Magic Number Text",
+  "sophisticatedsmelting.configuration.magicNumber": "Magic Number"
+}
